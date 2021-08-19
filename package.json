@@ -1,0 +1,22 @@
+{
+  "name": "bench-2021-08-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaxMEllon/bench-2021-08-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMEllon/bench-2021-08-19/issues"
+  },
+  "homepage": "https://github.com/MaxMEllon/bench-2021-08-19#readme",
+  "dependencies": {
+    "redux": "^4.1.1"
+  }
+}
